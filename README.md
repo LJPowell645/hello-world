@@ -16,5 +16,5 @@
 
 3. Actively upskilling in SQL and Google Looker to expand BI and data storytelling capabilities.
 
-4. Learning GITHUB uses and how it intergrates into the learning I am doing
+4. Upskilling in GITHUB uses and how it intergrates into the learning I am doing. Focusing on using my background in Intelligence to focus on Data.
 
